@@ -2,4 +2,5 @@ Make sure you have correct file open in explorer tab.
 Add folder or file. Or make needed changes
 Save on local file.
 Go to source control. Add a message and commit changes.
-Go to GitHub and accept pull request.
+VS Code will ask it you want to publish branch. Press Publish.
+If not signed into VS Code with a GitHub account. VS Code will ask you to do so.
